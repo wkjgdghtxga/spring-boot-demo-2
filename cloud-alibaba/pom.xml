@@ -37,7 +37,7 @@
     </modules>
 
     <packaging>pom</packaging>
-    <name>Spring boot cloud alibaba</name>
+    <name>cloud alibaba</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
@@ -75,7 +75,7 @@
             <dependency>
                 <groupId>com.alibaba.cloud</groupId>
                 <artifactId>spring-cloud-alibaba-dependencies</artifactId>
-                <version>2.1.0.RELEASE</version>
+                <version>2.2.0.RELEASE</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
